@@ -98,6 +98,9 @@
         <item>5 minutes</item>
         <item>10 minutes</item>
         <item>30 minutes</item>
+        <!-- ScrubberMods -->
+        <item>24 hours</item>
+        <item>Never</item>
     </string-array>
 
     <!-- Do not translate. -->
@@ -116,6 +119,9 @@
         <item>600000</item>
         <!-- Do not translate. -->
         <item>1800000</item>
+        <!-- ScrubberMods -->
+        <item>86 400 000</item>
+        <item>0</item>
     </string-array>
 
     <!-- TTS settings -->
@@ -434,7 +440,7 @@
         <item>silent</item>
         <item>notsilent</item>
     </string-array>
-    
+
     <string-array name="brightnessWidget" translatable="false">
         <item>Auto/Dim/40%/100%</item>
         <item>Auto/Dim/25%/75%/100%</item>
@@ -447,7 +453,7 @@
         <item>2G/3G Only</item>
         <item>2G/3G Only/3G+2G</item>
     </string-array>
-    
+
     <string-array name="screenTimeoutWidget" translatable="false">
         <item>15s/1m/5m</item>
         <item>30s/2m/5m</item>
@@ -460,7 +466,7 @@
         <item>Sound+Vib/Vib/Silent</item>
         <item>Sound/Vibrate/Silent</item>
     </string-array>
-    
+
     <string-array name="backgroundWidget">
         <item>Grey</item>
         <item>Transparent</item>
